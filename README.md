@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour, je suis Harshit Pratap Singh 👋
 
 <!--
 **Harshit1047/Harshit1047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
