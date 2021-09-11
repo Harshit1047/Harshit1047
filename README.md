@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-- 📫 Reach me at **harshit79055@gmail.com**
+  📫 Reach me at **harshit79055@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny Xd**
 
